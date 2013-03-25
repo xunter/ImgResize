@@ -1,0 +1,12 @@
+C:\Users\Павел\AppData\Local\Temporary Projects\ImgResize\bin\Release\ImgResize.exe
+C:\Users\Павел\AppData\Local\Temporary Projects\ImgResize\bin\Release\ImgResize.pdb
+C:\Users\Павел\AppData\Local\Temporary Projects\ImgResize\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Павел\AppData\Local\Temporary Projects\ImgResize\obj\x86\Release\ImgResize.exe
+C:\Users\Павел\AppData\Local\Temporary Projects\ImgResize\obj\x86\Release\ImgResize.pdb
+C:\work\NET\ImgResize\ImgResize\obj\x86\Release\ImgResize.exe
+C:\work\NET\ImgResize\ImgResize\obj\x86\Release\ImgResize.pdb
+C:\work\NET\ImgResize\ImgResize\bin\Release\ImgResize.exe
+C:\work\NET\ImgResize\ImgResize\obj\x86\Release\ResolveAssemblyReference.cache
+C:\work\NET\ImgResize\ImgResize\bin\Release\ImgResize.pdb
+C:\Users\xunter\Dev\work\NET\ImgResize\ImgResize\obj\x86\Release\ImgResize.exe
+C:\Users\xunter\Dev\work\NET\ImgResize\ImgResize\obj\x86\Release\ImgResize.pdb
